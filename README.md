@@ -5,7 +5,7 @@ This repository is prepared based on production-level standards.
 
 It can also be adopted to test any AI model for multi-class classification using 2D/3D data.
 
-Notes: 
+Important Notes: 
 - This repository is not for commercial use/purpose. 
 - It can be used for research purpose (only).
 - If you utilize this repository that will lead to any publication, please cite this repository.
